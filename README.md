@@ -15,7 +15,7 @@ Python · pandas · numpy · scikit-learn · TensorFlow/Keras · Plotly · Alpac
 ## 🚀 How to Run
 1. Clone this repo
 2. [Create and generate Alpaca API Keys](<https://app.alpaca.markets/signup>)
-3. Add your Alpaca keys to a `config.py` or `.env` (see `config_template.py`)
+3. Add your Alpaca keys to a `config.py` or `.env`
 
 ## 📊 Results
 
