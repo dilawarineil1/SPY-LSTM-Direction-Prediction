@@ -15,6 +15,3 @@ Python · pandas · numpy · scikit-learn · TensorFlow/Keras · Plotly · Alpac
 ## 🚀 How to Run
 1. Clone this repo
 2. Add your Alpaca keys to a `config.py` or `.env` (see `config_template.py`)
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
